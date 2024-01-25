@@ -1,8 +1,8 @@
-# React Application Template
+# Gig - React Application 
 
-This is a simple template for a React application.
+This is an exercise as part of the Makers Bootcamp.
 
-This template uses:
+This code uses:
 
 - [Vite](https://vitejs.dev/) for bundling and running the dev server.
 - [Vitest](https://vitest.dev/) for testing, along with
@@ -21,18 +21,6 @@ cd my-project
 npm install
 ```
 
-If for some reason `degit` doesn't work for you, you can instead follow these
-instructions:
-
-1. Clone this repo into a folder on your machine. eg.
-   `git clone git@github.com:makersacademy/react-template.git my-project-name`
-2. `cd` into that folder `cd my-project-name`
-3. Delete the git history: `rm -rf .git`
-
-The following can all be found under the "scripts" section in your
-`package.json`. You can add more scripts here if you like, and run them with
-`npm run my-script`.
-
 ### Running in Development Mode
 
 ```zsh
@@ -45,14 +33,3 @@ npm run dev
 npm run test
 ```
 
-### Linting
-
-```zsh
-npm run lint
-```
-
-### Building for Production
-
-```zsh
-npm run build
-```
